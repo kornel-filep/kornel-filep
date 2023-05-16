@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hello
+I am just a dude sometimes doing stuff on this website.
 
 <!--
 **kornel-filep/kornel-filep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
